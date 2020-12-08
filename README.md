@@ -11,4 +11,4 @@
 
 
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image/image1.png)
+![Image alt](https://github.com/tnoktkm/Discrete-mathematics/tree/main/image/image1.png)
