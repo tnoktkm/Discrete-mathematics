@@ -11,4 +11,4 @@
 
 
 
-![Image alt](https://github.com/tnoktkm/Discrete-mathematics/tree/main/image/image1.png)
+![alt text](./image/image1.png)
