@@ -23,8 +23,9 @@
 
 
 ### 2. Method Lemera (pseudo-random numbers)
-Запускаете файл с расширением .py(method_lemera.py) и вы получите алгоритм Краскала
-**Сам алгоритм** - <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D1%83%D1%8D%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4">алгоритм на вики<a/>
+Запускаете файл с расширением .py(method_lemera.py) и вы получите алгоритм Краскала<br/>
+**Сам алгоритм** - 
+<a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D1%83%D1%8D%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4">алгоритм на вики<a/>
   
 #### Ввод данных в Method Lemera:
 1. Сначало нужно указать k<br/>
