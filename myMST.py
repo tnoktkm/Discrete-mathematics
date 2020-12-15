@@ -3,9 +3,9 @@ n = int(input("Enter count V"))
 V = []
 
 for i in range(n):
-    e1 = input() #вершина 1
-    e2 = input() #вершина 2
-    w = int(input()) #вес ребера
+    e1 = input()
+    e2 = input()
+    w = int(input())
     V.append((e1, e2, w))
     n = n - 1
 
